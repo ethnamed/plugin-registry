@@ -2,7 +2,8 @@
 Plug-in Registry for quick plug-in installation during wallet installtion
 
 #### Project Coins
-| PROJECT | CONFIGURATION                                                               |
-|--------|------------------------------------------------------------------------------|
-| NEM    | https://github.com/askucher/projects/test                                    |
-| SPRKL  | https://github.com/askucher/projects/test                                    |
+
+
+Try to access projects by mark
+
+https://raw.githubusercontent.com/ethnamed/plugin-registry/master/plugins/`[plugin]`.json
