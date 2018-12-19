@@ -1,7 +1,8 @@
-# plugin-registry
+# Plugin Registry
 Plug-in Registry for quick plug-in installation during wallet installtion
 
-| proj    | config   |
-----------------------
-| sparkle | https:// |
-| nem     | https:// |
+#### Project Coins
+| PROJECT | CONFIGURATION                                                               |
+|--------|------------------------------------------------------------------------------|
+| NEM    | https://github.com/askucher/projects/test                                    |
+| SPRKL  | https://github.com/askucher/projects/test                                    |
