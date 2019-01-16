@@ -11,7 +11,9 @@ https://raw.githubusercontent.com/ethnamed/plugin-registry/master/plugins/`[plug
 
 ### Web3t api (browser version)
 
+```Javascript
 web3t.installByName('[plugin]')
+```
 
 ### Browser Wallet
 
