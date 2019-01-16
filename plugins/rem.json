@@ -1,5 +1,5 @@
 {
-    "usdInfo": "url(https://min-api.cryptocompare.com/data/pricemulti?fsyms=REM&tsyms=USD).BTC.USD",
+    "usdInfo": "url(https://min-api.cryptocompare.com/data/pricemulti?fsyms=REM&tsyms=USD).REM.USD",
     "image": "https://res.cloudinary.com/nixar-work/image/upload/v1547598371/logo_icon_white.png",
     "token": "rem",
     "enabled": true,
