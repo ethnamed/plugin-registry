@@ -4,6 +4,7 @@
     "token": "stt",
     "enabled": true,
     "type": "coin",
+    "color": "#000000",
     "testnet": {
         "decimals": 18,
         "txFee": "0.0030",
