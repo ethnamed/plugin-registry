@@ -4,6 +4,7 @@
     "token": "rem",
     "enabled": true,
     "type": "coin",
+    "color": "#40158d",
     "testnet": {
         "decimals": 4,
         "txFee": "0.0030",
