@@ -4,6 +4,7 @@
    "token":"sprkl",
    "enabled":true,
    "type":"coin",
+   "color": "#5e72e4",
    "testnet":{
       "decimals":18,
       "txFee":"0.0020",
