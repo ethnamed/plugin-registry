@@ -8,6 +8,7 @@
    "testnet":{
       "decimals":18,
       "txFee":"0.0020",
+      "txFeeIn": "eth",
       "address":"0x2AE67539e628a36cfEc0F8D720489d490b525637",
       "messagePrefix":"Ethereum",
       "mask":"0x0000000000000000000000000000000000000000",
@@ -21,6 +22,7 @@
    "mainnet":{
       "decimals":18,
       "txFee":"0.0014",
+      "txFeeIn": "eth",
       "messagePrefix":"Ethereum",
       "address":"0x73779dF3F86A4F314655247443dB8780a9b9F4CC",
       "mask":"0x0000000000000000000000000000000000000000",
