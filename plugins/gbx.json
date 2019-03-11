@@ -1,12 +1,21 @@
 {
     "mainnet": {
         "decimals": 8,
-        "txFee": "0.0000004",
+        "txFee": "0.0005",
+        "txFeeOptions": {
+            "auto": "0.0005",
+            "cheap": "0.00000226",
+            "instantPerInput": "0.0001",
+            "instantServicePrice": 0,
+            "privatePerInput": "0.005",
+            "privateServicePrice": "0.025"
+        },
         "mask": "1000000000000000000000000000000000",
         "api": {
             "provider": "insight",
             "url": "https://insight.gobyte.network",
             "apiName": "insight-api-gobyte",
+            "mixingList": "https://explorer.gobyte.network:5002/api/masternodelist",
             "decimal": 8
         },
         "messagePrefix": "\u0018GoByte Signed Message:\n",
@@ -21,12 +30,19 @@
         "dustThreshold": 5460
     },
     "testnet": {
-        "txFee": 0.0001,
+        "txFee": "0.0005",
+        "txFeeOptions": {
+            "fast": "0.0005",
+            "cheap": "0.00000226",
+            "instantPerInput": "0.0001",
+            "privatePerInput": "0.005"
+        },
         "decimals": 8,
-        "mask": "1000000000000000000000000000000000",
+        "mask": "n000000000000000000000000000000000",
         "api": {
             "provider": "insight",
-            "url": "https://testnet.blockexplorer.com",
+            "url": "http://texplorer.gobyte.network:4001",
+            "apiName": "insight-api-gobyte",
             "decimal": 8
         },
         "messagePrefix": "\u0018GoByte Signed Message:\n",
@@ -36,11 +52,51 @@
             "public": 70617039,
             "private": 70615956
         },
-        "pubKeyHash": 111,
-        "scriptHash": 196,
-        "wif": 239
+        "pubKeyHash": 112,
+        "scriptHash": 20,
+        "wif": 240,
+        "dustThreshold": 5460
     },
-    "color": "#185C9D",
+    "txTypes": [
+        "regular",
+        "instant"
+    ],
+    "color": "#545DF1",
+    "branding": {
+        "logo": "https://www.gobyte.network/img/logo.svg",
+        "title": "GoByte Multicurrency Wallet",
+        "important": true
+    },
+    "links": [
+        {
+            "image": "https://www.gobyte.network/img/fb.png",
+            "href": "https://wwww.facebook.com/gobytenetwork"
+        },
+        {
+            "image": "https://www.gobyte.network/img/twitter.png",
+            "href": "https://twitter.com/gobytenetwork"
+        },
+        {
+            "image": "https://www.gobyte.network/img/reddit.png",
+            "href": "https://www.reddit.com/r/GoByte"
+        },
+        {
+            "image": "https://www.gobyte.network/img/slack.png",
+            "href": "https://gobyte.slack.com/"
+        },
+        {
+            "image": "https://www.gobyte.network/img/discordapp.png",
+            "href": "https://discord.gobyte.network/"
+        },
+        {
+            "image": "https://www.gobyte.network/img/telegram.png",
+            "href": "https://t.me/gobytenetwork"
+        },
+        {
+            "image": "https://www.gobyte.network/img/github.png",
+            "href": "https://github.com/gobytecoin/gobyte"
+        }
+    ],
     "type": "coin",
     "enabled": true,
     "token": "gbx",
