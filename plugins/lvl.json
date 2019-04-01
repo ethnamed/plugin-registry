@@ -1,5 +1,5 @@
 {
-    "usdInfo": "0.002",
+    "usdInfo": 0.002,
     "image": "https://res.cloudinary.com/nixar-work/image/upload/v1554155114/Level_icon.png",
     "token": "lvl",
     "enabled": true,
