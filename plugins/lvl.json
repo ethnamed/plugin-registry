@@ -6,7 +6,7 @@
     "type": "coin",
     "color": "#66DADF",
     "testnet": {
-        "decimals": 18,
+        "decimals": 8,
         "txFee": "0.0030",
         "txFeeIn": "eth",
         "address": "0xe639041fd04a0e767870b18cb341f1cd2bec296f",
@@ -20,7 +20,7 @@
         }
     },
     "mainnet": {
-        "decimals": 18,
+        "decimals": 8,
         "txFee": "0.0030",
         "txFeeIn": "eth",
         "messagePrefix": "Ethereum",
