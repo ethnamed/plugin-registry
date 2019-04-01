@@ -24,7 +24,7 @@
         "txFee": "0.0030",
         "txFeeIn": "eth",
         "messagePrefix": "Ethereum",
-        "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+        "address": "0xa8eda9d4aee0eb882f8752c6ba7e16d9233c9ad2",
         "mask": "0x0000000000000000000000000000000000000000",
         "api": {
             "provider": "erc20",
