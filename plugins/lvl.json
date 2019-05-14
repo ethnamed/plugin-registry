@@ -4,7 +4,7 @@
     "token": "lvl",
     "enabled": true,
     "type": "coin",
-    "color": "#66DADF",
+    "color": "#5d9797",
     "testnet": {
         "decimals": 8,
         "txFee": "0.0030",
