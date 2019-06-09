@@ -1,0 +1,26 @@
+{
+    "mainnet": {
+        "decimals": 2,
+        "txFee": 0,
+        "txFeeOptions": {
+            "withdraw": "50 + 2%"
+        },
+        "messagePrefix": "Ethereum",
+        "mask": "0x0000000000000000000000000000000000000000",
+        "api": {
+            "provider": "rst",
+            "url": "https://royalswap.com/fiat/explorer",
+            "apiUrl": "https://royalswap.com/fiat-token/qiwi_rs",
+            "web3Provider": "https://royalswap.com/fiat-token/qiwi_rs"
+        }
+    },
+    "testnet": {
+        "disabled": true
+    },
+    "color": "#FF8C00",
+    "type": "coin",
+    "enabled": true,
+    "token": "qiwi_rs",
+    "image": "https://corp.qiwi.com/dam/jcr:fbce4856-723e-44a2-a54f-e7b164785f01/qiwi_sign_rgb.png",
+    "usdInfo": "1/url(https://api.exchangeratesapi.io/latest?base=USD).rates.RUB"
+}
