@@ -1,0 +1,25 @@
+{
+    "usdInfo": 0.002,
+    "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/825.png",
+    "token": "usdt_erc20",
+    "enabled": true,
+    "type": "coin",
+    "color": "#4FA37C",
+    "testnet": {
+        "disabled": true
+    },
+    "mainnet": {
+        "decimals": 6,
+        "txFee": "0.0050",
+        "txFeeIn": "eth",
+        "messagePrefix": "Ethereum",
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "mask": "0x0000000000000000000000000000000000000000",
+        "api": {
+            "provider": "erc20",
+            "web3Provider": "https://mainnet.infura.io/UoCkF4efTrbEGU8Qpcs0",
+            "url": "https://etherscan.io",
+            "apiUrl": "https://api.etherscan.io/api"
+        }
+    }
+}
