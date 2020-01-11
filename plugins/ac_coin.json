@@ -1,7 +1,7 @@
 {
     "mainnet": {
         "decimals": 18,
-        "txFee": "0",
+        "txFee": "0.0014",
         "txFeeOptions": {
             "auto": "0",
             "cheap": "0"
@@ -19,7 +19,7 @@
     "testnet": {
         "decimals": 18,
         "disabled": true,
-        "txFee": "0",
+        "txFee": "0.0014",
         "txFeeOptions": {
             "auto": "0",
             "cheap": "0"
