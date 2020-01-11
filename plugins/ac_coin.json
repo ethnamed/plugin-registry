@@ -10,10 +10,10 @@
         "mask": "0x0000000000000000000000000000000000000000",
         "api": {
             "provider": "eth",
-            "web3Provider": "https://rpc.affilcoin.net/rpc",
-            "url": "http://gastracker.io",
+            "web3Provider": "http://95.216.165.51:8545",
+            "url": "http://explorer.affilcoin.com",
             "addressSubUrl": "addr",
-            "apiUrl": "https://api.etherscan.io/api"
+            "apiUrl": "http://95.216.165.51:8545"
         }
     },
     "testnet": {
@@ -28,9 +28,9 @@
         "mask": "0x0000000000000000000000000000000000000000",
         "api": {
             "provider": "eth",
-            "web3Provider": "https://rpc.affilcoin.net/rpc",
-            "url": "https://ropsten.etherscan.io",
-            "apiUrl": "https://api-ropsten.etherscan.io/api"
+            "web3Provider": "http://95.216.165.51:8545",
+            "url": "http://explorer.affilcoin.com",
+            "apiUrl": "http://95.216.165.51:8545"
         }
     },
     "color": "#0040FF",
