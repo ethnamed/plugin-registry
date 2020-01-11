@@ -10,7 +10,7 @@
         "mask": "0x0000000000000000000000000000000000000000",
         "api": {
             "provider": "eth",
-            "web3Provider": "http://95.216.165.51:8545",
+            "web3Provider": "https://explorer.affilcoin.net/api",
             "url": "http://explorer.affilcoin.com",
             "addressSubUrl": "addr",
             "apiUrl": "http://95.216.165.51:8545"
@@ -28,7 +28,7 @@
         "mask": "0x0000000000000000000000000000000000000000",
         "api": {
             "provider": "eth",
-            "web3Provider": "http://95.216.165.51:8545",
+            "web3Provider": "https://explorer.affilcoin.net/api",
             "url": "http://explorer.affilcoin.com",
             "apiUrl": "http://95.216.165.51:8545"
         }
