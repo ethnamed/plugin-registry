@@ -2,7 +2,7 @@
     "usdInfo": "url(https://staramba.kauri.one).STT.USD",
     "image": "https://res.cloudinary.com/dfbhd7liw/image/upload/v1547131066/coin.png",
     "token": "stt",
-    "enabled": true,
+    "enabled": false,
     "type": "coin",
     "color": "#000000",
     "testnet": {
