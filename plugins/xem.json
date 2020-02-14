@@ -29,6 +29,7 @@
     },
     "type": "coin",
     "enabled": true,
+    "name": "NEM",
     "token": "xem",
     "image": "./res/nem-ethnamed.png",
     "usdInfo": "url(https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,ETH,LTC,DASH,XEM,USDT,ETC&tsyms=USD).XEM.USD"
