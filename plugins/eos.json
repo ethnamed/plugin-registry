@@ -58,6 +58,7 @@
     "color": "#272431",
     "type": "coin",
     "enabled": true,
+    "name" : "EOS",
     "token": "eos",
     "image": "https://res.cloudinary.com/nixar-work/image/upload/v1550938232/EOS.png",
     "usdInfo": "url(https://min-api.cryptocompare.com/data/pricemulti?fsyms=EOS&tsyms=USD).EOS.USD"
