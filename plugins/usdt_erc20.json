@@ -4,6 +4,7 @@
     "token": "usdt_erc20",
     "enabled": true,
     "type": "coin",
+    "name": "USDT ERC20",
     "color": "#4FA37C",
     "testnet": {
         "disabled": true
