@@ -19,7 +19,8 @@
         },
         "pubKeyHash": 48,
         "scriptHash": 50,
-        "wif": 176
+        "wif": 176,
+        "disabled" : true
     },
     "testnet": {
         "decimals": 8,
